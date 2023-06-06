@@ -1,1 +1,2 @@
-TOKEN = 'MTExNTQ3NTc5MjU5MjM4MDA2NA.GxK5DV.qvc7Asrf7H-JhTi5Clhj6OZV2lyw74-okyc4FA'
+import os
+TOKEN = os.environ['MODERATION_BOT_TOKEN']
